@@ -1,3 +1,3 @@
-import { sum, avg } from './sub/src';
+import { sum, avg } from './sub/index.mjs';
 
 console.log('Test!');
